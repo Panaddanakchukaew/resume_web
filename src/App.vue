@@ -155,8 +155,9 @@ const getAllProduct = async () => {
 import { RouterView, RouterLink } from 'vue-router';
 import router from './router';
 const menuList = [
-  { path: "/", name: "home" },
+  { path: "/", name: "Home" },
   { path: "/create", name: "create" },
+  { path: "/chat", name: "chat" },
 ]
 
 </script>
