@@ -17,7 +17,7 @@ let chat = ref("");
 let histories = ref([]);
 let historykey = ref(""); //collect select group
 const bottomEl = ref(null);
-const studentId = "6314110013"
+const studentId = "6314110019"
 let refChat;
 const db = refDb(database, 'all_chat/')
 
